@@ -1,0 +1,51 @@
+
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background: #222222;
+     }
+
+h1 {
+    background: #777;
+    margin-bottom: 10px;
+}
+
+nav {
+    background: #777;
+    margin-bottom: 20px;
+}
+
+section {
+    background: #777;
+    float: left;
+    width:495px;letter-spacing: normal;
+    height:200px;
+}
+
+
+aside {
+    background: #777;
+    float: left;
+    height: 200px;
+    width: 495px;   
+}
+
+article {
+    background: #222222;
+    height: 100px;
+    width:495px;
+}
+
+
+p {
+    clear: both;
+    background: #777;
+    width:250px;
+    overflow: auto;
+}
+
+footer {
+    background: #777;
+
+}
